@@ -4,7 +4,6 @@ server:
 spring:
   application:
     name: order-service
-
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/db_technomir_orders
     driver-class-name: com.mysql.cj.jdbc.Driver
