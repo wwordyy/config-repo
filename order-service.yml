@@ -8,5 +8,5 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/db_technomir_orders
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: 1234
+    password: "1234"
 
