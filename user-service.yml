@@ -4,7 +4,6 @@ server:
 spring:
   application:
     name: user-service
-
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/db_technomir_users
     driver-class-name: "com.mysql.cj.jdbc.Driver"
